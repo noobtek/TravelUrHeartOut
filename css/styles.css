@@ -30,4 +30,27 @@ th {
   select{
     color: #99A799;
   }
+ label {
+      color:#121212;
+      font-size: 18px;
+      
+      font-style: bold;
+  }
+textarea{
+    border: 2px solid #CEE5D0;
+    
+    border-radius: 15px;
+    height: 100px;
+    border-style: inset ;
+    padding:2px;
+}
+input {
+    border: 2px solid #CEE5D0;
+    
+    border-radius: 10px;
+    height: 20px;
+    border-style:solid;
+    border-radius: 10px;
+    padding:2px;
+}
   
